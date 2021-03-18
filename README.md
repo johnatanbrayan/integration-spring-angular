@@ -1,7 +1,7 @@
 <div align="center">
 
   # Integration Spring Boot + Angular Template
-  A Litle project to understand how to integrate an Angular project with a Spring Boot project. keeping the Angular project embedded within the Spring Boot project.
+  A litle project to understand how to integrate an Angular project with a Spring Boot project. keeping the Angular project embedded within the Spring Boot project.
 
 
   ![](https://img.shields.io/badge/Autor-Johnatan%20Brayan-brightgreen)
@@ -33,5 +33,5 @@ $ ./mvnw clean install
 # Run the Application in Development
 $ ./mvnw spring-boot:run
 
-# The server will start on the port:8080 - Access http://localhost:8080 to acess the project.
+# The server will start on the port:8080 - Access http://localhost:8080 to access the project.
 ```
