@@ -1,27 +1,37 @@
-# Webapp
+<div align="center">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+  # Integration Spring Boot + Angular Template
+  A Litle project to understand how to integrate an Angular project with a Spring Boot project. keeping the Angular project embedded within the Spring Boot project.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+  ![](https://img.shields.io/badge/Autor-Johnatan%20Brayan-brightgreen)
+  ![](https://img.shields.io/badge/Back--End-Spring%20Boot-brightgreen)
+  ![](https://img.shields.io/badge/Front--End-Angular9-brightgreen)
+  
+</div> 
 
-## Code scaffolding
+## 🚀 What you need to execute
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To clone and run this application, you will need [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/) - Version LTS and [JKD11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) installed on your computer.
 
-## Build
+### 🌀 Cloning the repository
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```bash
+# Cloning this repository
+$ git clone https://github.com/johnatanbrayan/integration-spring-angular.git
 
-## Running unit tests
+# Access the root of the folder project on terminal/gitbash
+$ cd integration-spring-angular
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 🎲 Running the Application
 
-## Running end-to-end tests
+```bash
+# Install the dependencies
+$ ./mvnw clean install
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+# Run the Application in Development
+$ ./mvnw spring-boot:run
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# The server will start on the port:8080 - Access http://localhost:8080 to acess the project.
+```
