@@ -12,7 +12,7 @@
 
 ## 🚀 What you need to execute
 
-To clone and run this application, you will need [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/) - Version: v14.16.0, npm:6.14.11 and [JKD11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) installed on your computer.
+To clone and run this application, you will need [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/) - (Version: v14.16.0, npm:6.14.11) and [JKD11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) installed on your computer.
 
 ### 🌀 Cloning the repository
 
