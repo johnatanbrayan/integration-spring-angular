@@ -30,7 +30,7 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/*
+/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -45,8 +45,15 @@ build/
 # Only exists if Bazel was run
 !**/src/main/webapp/bazel-out
 
-# dependencies
-/node_modules
+######################
+# Node
+######################
+/node/
+node_tmp/
+node_modules/
+npm-debug.log.*
+/.awcache/*
+/.cache-loader/*
 
 # profiling files
 chrome-profiler-events*.json
@@ -67,7 +74,7 @@ testem.log
 Thumbs.db
 
 # IDEs and editors
-/.idea
+.idea
 .project
 .classpath
 .c9/
