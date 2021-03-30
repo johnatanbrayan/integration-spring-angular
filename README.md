@@ -15,6 +15,7 @@ If you have full-stack developers that will be working on both sides of the appl
 
 Having a single deployable asset simplifies the deployment process which I know a lot of developers don't like to deal with. If you're a single developer or a team of full-stack developers this is a great option. There are some tricks to getting this all into a single project but that is exactly what you will test in this project.
 
+### 🤔 How to create you project in monolithic architecture?
 A make a tutorial on gist showing the steps how to configure: https://gist.github.com/johnatanbrayan/d7e5250eece3fc83bf63b1c90f9c2162
 
 ### 🤔 What you need to execute
