@@ -15,6 +15,8 @@ If you have full-stack developers that will be working on both sides of the appl
 
 Having a single deployable asset simplifies the deployment process which I know a lot of developers don't like to deal with. If you're a single developer or a team of full-stack developers this is a great option. There are some tricks to getting this all into a single project but that is exactly what you will test in this project.
 
+A make a tutorial on gist showing the steps how to configure: https://gist.github.com/johnatanbrayan/d7e5250eece3fc83bf63b1c90f9c2162
+
 ### 🤔 What you need to execute
 
 To clone and run this application, you will need [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/) - (Version: v14.16.0, npm:6.14.11) and [JKD11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) installed on your computer.
