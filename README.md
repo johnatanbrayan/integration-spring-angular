@@ -6,7 +6,7 @@
 
   ![](https://img.shields.io/badge/Autor-Johnatan%20Brayan-brightgreen)
   ![](https://img.shields.io/badge/Back--End-Spring%20Boot-brightgreen)
-  ![](https://img.shields.io/badge/Front--End-Angular9-brightgreen)
+  ![](https://img.shields.io/badge/Front--End-Angular%209-brightgreen)
   
 </div> 
 
