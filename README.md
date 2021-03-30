@@ -42,7 +42,7 @@ $ ./mvnw spring-boot:run
 ```
 
 ### 🤔 How to create you project in monolithic architecture?
-A make a tutorial on gist showing the steps how to configure: https://gist.github.com/johnatanbrayan/d7e5250eece3fc83bf63b1c90f9c2162
+I made a tutorial on gist showing the steps of how to configure: https://gist.github.com/johnatanbrayan/d7e5250eece3fc83bf63b1c90f9c2162
 
 ### :memo: Articles that helped me
 - https://bezkoder.com/integrate-angular-spring-boot/
